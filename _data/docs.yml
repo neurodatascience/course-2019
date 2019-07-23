@@ -1,11 +1,16 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
+  - schedule
 
-- title: Examples
+- title: Day 1
   docs:
   - cheatsheet
-  - font-awesome
+
+- title: Day 2
+  docs:
   - bootstrap
+
+- title: Day 3
+  docs:
+  - font-awesome

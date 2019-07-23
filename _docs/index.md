@@ -4,47 +4,34 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+Neuroscientists rely increasingly on data accessible online and on data science
+procedures for their investigations. Data science now offers a key set of
+tools and methods to efficiently analyse, visualize and interpret neuroscience
+data. Concurrently, there is a growing concern in the life sciences that many
+results produced are difficult or even impossible to reproduce. This is
+referred to as the reproducibility crisis, which concerns most of biomedical
+fields [F. Collin].
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
+This first week of the computational neuroscience seminar series is bringing
+together software and analytical tools and methods.  It will teach students how
+to best use the fundamentals of data science in their daily work to produce
+reproducible results. We will take examples in neuroimaging or imaging
+genetics, and see how to use computational tools, statistical and machine
+learning techniques, and collaborative and open science methodology to generate
+results that are statistically solid and computationally reproducible. While a
+large part of this course is language agnostic, we will teach and use python
+throughout the course. Students will start to work on projects that they will
+continue during the following  computational neuroscience seminar weeks.
 
-1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
+The course will require that you have basic programming experience and one or more
+undergraduate course(s) in statistical analysis (or equivalent experience),
+but it will be aimed at life scientists (neurologists, psychiatrists,
+pyschologists, neuroscientists) who wish to improve their research practices,
+or students who want an introduction to data science with examples in neuroscience
+and neuroimaging.
 
-## Writing content
+The first week, outlined below, can be conceptually divided into three sections:
 
-### Docs
-
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
-
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
-
-```
----
-title: My Page
-permalink: /docs/my-page/
----
-
-Hello World!
-```
-
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
-
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
-### Pages
-
-The homepage is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap components](http://getbootstrap.com/components/))
-
-In order to add a new page, create a new `.html` or `.md` (markdown) file under root directory and link it in `_includes/topnav.html`.
+- Part I: Introduction and Motivation  
+- Part II: Reproducibility and Data Management Tools  
+- Part III: Data analysis: concept and tools
