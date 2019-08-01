@@ -3,9 +3,6 @@ title: Introduction to Re-executability and Virtualization
 permalink: /docs/containers/
 ---
 
-
-# Introduction to Re-executability and Virtualization
-
 The structure of this morning will be as follows:
 
 - An overview of computer architectures and components

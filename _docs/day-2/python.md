@@ -3,8 +3,6 @@ title: Introduction to Python
 permalink: /docs/python/
 ---
 
-# Introduction to Python
-
 You can find the [course materials here](https://github.com/neurodatascience/NeuroDataSci-course-2019/tree/master/content/day2/am).
 
 The structure of this lesson will be as follows:
