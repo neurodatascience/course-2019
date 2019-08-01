@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Schedule at a Glance
 permalink: /docs/schedule/
 ---
 
