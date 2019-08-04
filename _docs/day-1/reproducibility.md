@@ -1,6 +1,6 @@
 ---
-title: Reproducibility: issues and solutions 
-permalink: /docs/history/
+title: Reproducibility issues and solutions
+permalink: /docs/reproducibility/
 ---
 
-[Course presentation](https://figshare.com/articles/reproducibility-issues-solutions_pdf/9206543)
+[Reproducibility course](https://figshare.com/articles/reproducibility-issues-solutions_pdf/9206543).

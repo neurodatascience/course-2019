@@ -1,5 +1,5 @@
 ---
-title: Introduction to git and GitHub
+title: Introduction to git 
 permalink: /docs/git/
 ---
 
