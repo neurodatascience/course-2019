@@ -1,6 +1,7 @@
 ---
-title: Introduction to git and GitHub
+title: Introduction to git 
 permalink: /docs/git/
 ---
 
-[Course materials](https://emdupre.github.io/git-course).
+[Git course materials](https://elizabeth-dupre.com/git-course/).
+
