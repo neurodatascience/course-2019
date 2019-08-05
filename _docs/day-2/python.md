@@ -7,6 +7,8 @@ You can find the [course materials here](https://github.com/neurodatascience/Neu
 
 The structure of this lesson will be as follows:
 
+- An introduction : [Why Python?](https://docs.google.com/presentation/d/1NIb-pOg1zWqa2TseVu8l-hNhLJ4PGFOBsGEsxkD3iJA/edit?usp=sharing)
+
 - An overview of structures and datatypes in Python programming:
   - Python and IPython shells
   - Variables, types, comparisons
