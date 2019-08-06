@@ -6,8 +6,12 @@
 
 - title: Day 1
   docs:
+  - introduction
+  - reproducibility
   - history
+  - bash
   - git
+  - github
 
 - title: Day 2
   docs:

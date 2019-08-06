@@ -18,6 +18,21 @@ cd jekyll-doc-theme
 bundle exec jekyll serve
 ```
 
+## If bundle exec jekyll serve fails
+
+It could be that the bundler version is not the right one :
+look at the "BUNDLE WITH' and version of bundler in the `Gemfile.lock` file:
+
+```
+BUNDLED WITH
+   2.0.1
+```
+and in that case use : 
+
+```bash
+gem install bundler -v '2.0.1'
+```
+
 ## Docker
 
 Alternatively, you can deploy it using the multi-stage [Dockerfile](Dockerfile)
