@@ -21,12 +21,15 @@
 - title: Day 3
   docs:
   - standards
+  - compute
 
 - title: Day 4
   docs:
+  - data-viz
+  - matrix-factorization
   - machine-learning
 
 - title: Day 5
   docs:
   - deep-learning
-  - matrix-factorization
+
