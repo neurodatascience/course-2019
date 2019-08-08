@@ -27,7 +27,8 @@ permalink: /docs/schedule/
     - 17:00 - Dismissal
 
 #### Thursday, August 5th
-    - 09:00 - Introductory statistics
+    - 09:00 - Data visualization
+    - 10:00 - Multivariate statistics and matrix factorizations
     - 12:00 - Lunch
     - 13:00 - Guest Lecture on estimation of connectivity
     - 14:00 - Classical machine learning
@@ -36,6 +37,6 @@ permalink: /docs/schedule/
 #### Friday, August 5th
     - 09:00 - Introduction to Deep Learning
     - 12:00 - Lunch
-    - 13:00 - Multivariate statistics and matrix factorizations
+    - 13:00 - Review Session
     - 16:00 - Assessment 2
     - 17:00 - Dismissal
